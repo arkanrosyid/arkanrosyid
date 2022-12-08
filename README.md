@@ -1,5 +1,6 @@
 ### Hello, Welcome to My Profile! 👋
 ### About Me
+I'm Arkan from Indonesia, and i do web development. I really enjoy learning languages and frameworks like Laravel, AngularJS and Springboot.
 ### Github Analytics
 <p align="center">
 <a href="https://github.com/KatowProject">
