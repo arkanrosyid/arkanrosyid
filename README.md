@@ -1,6 +1,6 @@
 ### Hello, Welcome to My Profile! 👋
 ### About Me
-I'm Arkan from Indonesia, and i do back-end web development. I can do frameworks like Laravel, Codeigniter, NodeJS and little bit of Springboot.
+I'm Arkan from Indonesia, and i do back-end web development. I can do frameworks like Laravel, Codeigniter, ExpressJS and little bit of Springboot.
 ### Github Analytics
 <p align="center">
 <a href="https://github.com/arkanrosyid">
