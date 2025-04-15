@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Let's Connect!
-- 🔗 LinkedIn: [linkedin.com/in/your-linkedin](https://www.linkedin.com/in/arkanrosyid/) <!-- Replace with your actual LinkedIn -->
+- 🔗 LinkedIn: [linkedin.com/in/arkanrosyid](https://www.linkedin.com/in/arkanrosyid/) <!-- Replace with your actual LinkedIn -->
 - 📧 Email: arkanrosyid.ar@gmail.com <!-- Optional -->
 
 ---
