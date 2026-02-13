@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Arkan!</h1>
 
 <p align="center">
-  <em>Back-End Web Developer & Cyber Security Enthusiast from Indonesia 🇮🇩</em>
+  <em>Model Manager - Software Quality Assurance LG Electronics Research Center Indonesia</em>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
-- 👨‍💻 Passionate about backend development and exploring cyber security
 - 🛠️ Tech explorer, problem solver, and lifelong learner
-- 🌱 Currently sharpening my skills in Laravel, Node.js, and network security
+- 🌱 Currently sharpening my skills in SQA & network security
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/arkanrosyid/) <!-- Replace with your actual LinkedIn URL -->
 
 ---
